@@ -1,0 +1,23 @@
+c:\users\daniel.good\documents\visual studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\daniel.good\documents\visual studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\daniel.good\documents\visual studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\daniel.good\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\daniel.good\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\daniel.good\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\daniel.good\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\daniel.good\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\daniel.good\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Daniel.good\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Daniel.good\Desktop\新增資料夾\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Daniel.good\Desktop\新增資料夾\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Daniel.good\Desktop\新增資料夾\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Daniel.good\Desktop\1a2b\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
